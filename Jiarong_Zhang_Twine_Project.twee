@@ -1,0 +1,188 @@
+:: StoryTitle
+Giaproject
+
+
+:: StoryData
+{
+  "ifid": "6BDE9783-5590-45A0-A05E-98DB08A5AA6A",
+  "format": "Harlowe",
+  "format-version": "3.3.5",
+  "start": "My lovely room",
+  "zoom": 1
+}
+
+
+:: \ End of tour! {"position":"1225,0","size":"100,100"}
+That’s basically everything that I want to talk about. It’s simple, isn’t it? Just about companionship, which let me to live such a comfortable life in this room. I’ll walk send you downstairs. Bye!
+
+(enchant:?page,(bg:blue))
+[[Bye? Too early.|Heihei]]
+
+
+:: Bears {"position":"1200,725","size":"100,100"}
+I have three bears in total. One is the bear I always hug, the other two are a twin.
+
+  <img src=https://gia20030416.github.io/twinespring2023/Images/bear.JPG style=width="400px" height="300px">
+  
+   <img src=https://gia20030416.github.io/twinespring2023/Images/layers.gif style=width="400px" height="300px">
+   
+    <img src=https://gia20030416.github.io/twinespring2023/Images/twin1.gif style=width="800px" height="600px">
+
+(enchant:?page,(bg:orange))
+[[Twin]]
+
+
+:: Colors {"position":"900,25","size":"100,100"}
+
+
+
+:: Diversity {"position":"1100,350","size":"100,100"}
+I also have:
+Zebra
+Fox
+…etc.
+
+  <img src=https://gia20030416.github.io/twinespring2023/Images/di.JPG style=width="400px" height="300px">
+
+(enchant:?page,(bg:grey))
+
+LET'S CHECK THE FIRST ONE:
+
+(enchant:?page,(bg:grey))
+[[Zabra.|Zabra]]
+
+
+
+
+
+
+
+:: Elements {"position":"750,475","size":"100,100"}
+I have everything that I need in my room, which is awesome. I think it’s about companionship that gives me a sense of belongingness.
+
+For me, companionship is about: People, and my toys.
+
+(enchant:?page,(bg:red))
+[[Let me explain.|People]]
+
+(enchant:?page,(bg:red))
+[[Or, we directly skip to toys!|My toys]]
+
+
+
+:: Fox {"position":"1500,300","size":"100,100"}
+Fox is my favourite animal. I mean in real life, since they are super smart.
+
+  <img src=https://gia20030416.github.io/twinespring2023/Images/fox.JPG style=width="400px" height="300px">
+  
+  (enchant:?page,(bg:red))
+  [[Let's see Sloth!|Sloth]]
+
+
+:: Heihei {"position":"1475,0","size":"100,100"}
+''Please remember this little story! I spent a lot of time on this~~ :)''
+
+(enchant:?page,(bg:read))
+  <img src=https://gia20030416.github.io/twinespring2023/Images/heart.JPG style=width="400px" height="300px">
+
+
+:: Interactions {"position":"775,50","size":"100,100"}
+My boyfriend love to have interactions with the toys. See! They are wearing the same type of Christmas socks! It’s so cute isn’t it?
+
+  <img src=https://gia20030416.github.io/twinespring2023/Images/bf.JPG style=width="400px" height="300px">
+  
+  (enchant:?page,(bg:orange))
+  [[My toys]]
+
+
+:: My lovely room {"position":"325,675","size":"100,100"}
+I have a lovely home, and I want to give you a tour of the important element of my room.
+Let’s go upstairs first. I live in the third floor.
+
+
+''Let's go take a look''
+(enchant:?page,(bg:yellow))
+
+[[Ahhh|ahh]]
+
+
+:: My toys {"position":"925,450","size":"100,100"}
+[[Well, you still have chance to hear my first part explaination!|People]]
+
+The second part of this is my toys. I have so many toys. Since I grow up, I always need something to hug to sleep. One bear I brought all the way from China to US, and it has been with me for such a long time.
+
+(enchant:?page,(bg:white))
+[[My favourite!|Bears]]
+
+(enchant:?page,(bg:white))
+[[I have other kinds of toy too!|Diversity]]
+
+
+
+:: People {"position":"600,275","size":"100,100"}
+The first part of this is about people. I’m stay with my boyfriend. We study hard together, we fight against those difficulties, and try to become better people everyday. He makes me feel like I’m not lonely on this journey of fighting for what I want.
+
+ <img src=https://gia20030416.github.io/twinespring2023/Images/bf1.JPG style=width="400px" height="300px">
+
+(enchant:?page,(bg:purple))
+[[It's show time!|Interactions]]
+
+
+:: Sloth {"position":"1700,225","size":"100,100"}
+
+  <img src=https://gia20030416.github.io/twinespring2023/Images/sloth.JPG style=width="400px" height="300px">
+  
+  (enchant:?page,(bg:green))
+  [[That's basiclaly everything I want to talk about| End of tour!]]
+
+
+:: Twin {"position":"1425,600","size":"100,100"}
+They look exactly the same, and they love to stay with each other so much. They are staying with each other at the same shelf all the time, and I think when I’m not there, they can actually talk to each other.
+
+(enchant:?page,(bg:yellow))
+[[Let's go check...|Diversity]]
+
+
+
+
+:: Zabra {"position":"1375,175","size":"100,100"}
+It's color is beautiful right??
+
+  <img src=https://gia20030416.github.io/twinespring2023/Images/zi.JPG style=width="400px" height="300px">
+  
+  (enchant:?page,(bg:purple))
+  [[Let's check the next|Fox]]
+
+
+:: ahh [1] {"position":"325,450","size":"100,100"}
+Nope, this is a wrong picture!
+
+Let's go to to the right one :)
+
+ <img src=https://gia20030416.github.io/twinespring2023/Images/travel.JPG style=width="400px" height="300px">
+
+(enchant:?page,(bg:red))
+[[Go up stairs.|stairs]]
+
+
+
+
+:: stairs {"position":"525,475","size":"100,100"}
+What do you think the main elements are? Take a guess. It’s really simple.
+
+ <img src=https://gia20030416.github.io/twinespring2023/Images/up.jpg style=width="400px" height="300px">
+
+(enchant:?page,(bg:green))
+[[Let's guess|Elements]]
+
+
+
+
+:: StoryStylesheet [stylesheet]
+body,twin-story{
+  Color:blue
+  font-family:'PT Sans Caption', sans-serif;
+  font-size:1em;
+}
+
+
